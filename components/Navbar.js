@@ -25,7 +25,8 @@ const Navbar = ({CurrentTheme, changeTheTheme}) => {
   return (
     <div className={color ? "header header-bg" : "header"}>
 
-        <Image className="logo" src={logo} 
+        <Image alt=''
+        className="logo" src={logo} 
         height="48"  width="48"/>
 
           <ul className={click ? "navi active":"navi"}>

@@ -10,7 +10,7 @@ const About = () => {
             
             <h1>The Team</h1>
 
-            <Image src={bioPic} className="about--img"
+            <Image src={bioPic} alt="Ag-obum" className="about--img"
                     height={400} width={300}
                     />
 
