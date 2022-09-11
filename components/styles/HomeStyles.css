@@ -151,6 +151,7 @@ br{
     .home .home--content {
         top: 45%;
         padding: 1rem;
+        background-color: aqua;
     }
 
 
@@ -178,6 +179,7 @@ br{
     .home .home--content {
         top: 55%;
         padding: 0rem;
+        background-color: antiquewhite;
     }
     
     .home--content-text h1 {
@@ -203,6 +205,7 @@ br{
         top: 75%;
         padding: 1rem;
         min-width: 280px;
+        background-color: blue;
     }
     
     .home--content-text h1 {
