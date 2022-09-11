@@ -194,6 +194,11 @@ br{
         font-size: 0.95rem;
     }
 }
+@media screen and (max-width: 400px){
+    .home .home--content {
+        top: 60%;
+        background-color: aquamarine;}
+}
 
 @media screen and (max-width: 350px) { 
 
@@ -234,6 +239,7 @@ br{
         top: 50%;
         padding: 1rem;
         min-width: 270px;
+        background-color: blueviolet;
     }
     
     .home--content-text h1 {
