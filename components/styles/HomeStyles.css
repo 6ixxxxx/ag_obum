@@ -194,7 +194,19 @@ br{
 }
 @media screen and (max-width: 400px){
     .home .home--content {
-        top: 65%;
+        top: 60%;
+    }
+    
+    .home--content-text h1 {
+        font-size: 2.2rem;
+    }
+
+    .home--content-text h3 {
+        font-size: 1.3rem;
+    }
+
+    .home--content-text p {
+        font-size: .95rem;
     }
 }
 
@@ -233,9 +245,9 @@ br{
     }
 
     .home .home--content {
-        top: 70%;
+        top: 80%;
         padding: 1rem;
-        min-width: 270px;
+        min-width: 280px;
     }
     
     .home--content-text h1 {
