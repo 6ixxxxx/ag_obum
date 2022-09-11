@@ -151,7 +151,6 @@ br{
     .home .home--content {
         top: 45%;
         padding: 1rem;
-        background-color: aqua;
     }
 
 
@@ -179,7 +178,6 @@ br{
     .home .home--content {
         top: 55%;
         padding: 0rem;
-        background-color: antiquewhite;
     }
     
     .home--content-text h1 {
@@ -196,8 +194,8 @@ br{
 }
 @media screen and (max-width: 400px){
     .home .home--content {
-        top: 60%;
-        background-color: aquamarine;}
+        top: 65%;
+    }
 }
 
 @media screen and (max-width: 350px) { 
@@ -210,7 +208,6 @@ br{
         top: 75%;
         padding: 1rem;
         min-width: 280px;
-        background-color: blue;
     }
     
     .home--content-text h1 {
@@ -236,10 +233,9 @@ br{
     }
 
     .home .home--content {
-        top: 50%;
+        top: 70%;
         padding: 1rem;
         min-width: 270px;
-        background-color: blueviolet;
     }
     
     .home--content-text h1 {
